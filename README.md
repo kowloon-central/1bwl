@@ -7,14 +7,14 @@ You can find our ticker at https://pooltool.io/
 ```markdown
 
 1bwl.json
-
-{
-"name": "The 10,000,000% Return Pool",
-"description": "Yi Ben Wan Li 888!!!",
-"ticker": "1bwl",
-"homepage": "https://www.1bwl.com"
+<br>
+{<br>
+"name": "The 10,000,000% Return Pool",<br>
+"description": "Yi Ben Wan Li 888!!!",<br>
+"ticker": "1bwl",<br>
+"homepage": "https://www.1bwl.com"<br>
 }
-
+<br>
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
