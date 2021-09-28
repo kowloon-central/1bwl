@@ -18,8 +18,9 @@ You can find our ticker at https://pooltool.io/
 }
 <br>
 
+https://pattlau.github.io/1bwl/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Pool Page](https://pattlau.github.io/1bwl/).
 
 ### Jekyll Themes
 
