@@ -5,21 +5,18 @@ Ticker: 1bwl
 You can find our ticker at https://pooltool.io/
 
 ```markdown
-Syntax highlighted code block
+#for reference
 
-Ticker 1bwl
+1bwl.json
+
+{
+"name": "The 10,000,000% Return Pool",
+"description": "Yi Ben Wan Li 888!!!",
+"ticker": "1bwl",
+"homepage": "https://www.1bwl.com"
+}
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
