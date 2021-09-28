@@ -1,19 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to The 10,000 Return Pool Page, Officially 1bwl
 
-You can use the [editor on GitHub](https://github.com/pattlau/1bwl/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Ticker: 1bwl
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can find our ticker at https://pooltool.io/
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Ticker 1bwl
+
 
 - Bulleted
 - List
