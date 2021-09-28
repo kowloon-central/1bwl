@@ -5,7 +5,6 @@ Ticker: 1bwl
 You can find our ticker at https://pooltool.io/
 
 ```markdown
-#for reference
 
 1bwl.json
 
