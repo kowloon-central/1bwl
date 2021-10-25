@@ -1,8 +1,8 @@
-## Welcome to The Cardano Kowloon Page, Officially 1bwl
+## Welcome to The Kowloon Page, Officially 1bwl
 
 Cardano Ada 九龍質押池
 
-Ticker: kowln
+Ticker: klntg
 
 You can find our ticker at https://pooltool.io/
 
@@ -11,7 +11,7 @@ You can find our ticker at https://pooltool.io/
 kowln.json
 <br>
 {<br>
-"name": "The 10,000,000% Return Pool",<br>
+"name": "The Kowloon Tong Pond",<br>
 "description": "Yi Ben Wan Li 888!!!",<br>
 "ticker": "1bwl",<br>
 "homepage": "https://www.1bwl.com"<br>
