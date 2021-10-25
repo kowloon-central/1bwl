@@ -1,14 +1,14 @@
-## Welcome to The 10,000 Return Pool Page, Officially 1bwl
+## Welcome to The Cardano Kowloon Page, Officially 1bwl
 
-一本萬利 質壓池
+Cardano Ada 九龍質押池
 
-Ticker: 1bwl
+Ticker: kowln
 
 You can find our ticker at https://pooltool.io/
 
 ```markdown
 
-1bwl.json
+kowln.json
 <br>
 {<br>
 "name": "The 10,000,000% Return Pool",<br>
